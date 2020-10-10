@@ -17,7 +17,7 @@ namespace aa1
         {
             InitializeComponent();
 
-            int a = 200;
+            int a = 100;
             int b = 12;
 
 
