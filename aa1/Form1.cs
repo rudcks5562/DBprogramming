@@ -17,12 +17,13 @@ namespace aa1
         {
             InitializeComponent();
 
-            int a = 0;
-
+            int a = 200;
+            int b = 12;
 
 
 
             textBox_1.Text = a.ToString();
+            textBox_1.Text = b.ToString();
         }
         
         
